@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, vite and tailwindcss**
 
-- 💬 Ask me about **html, css, javascrip, react**
+- 💬 Ask me about **html, css, javascrip, react...**
 
 - 📫 How to reach me **arodriguez.working@gmail.com**
 
