@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arodriguez.working@gmail.com**
 
-- 📄 Know about my experiences 👉🏽<a href="https://drive.google.com/uc?export=download&id=1e7TzsupgZ5S05P4nO3QYCZ9bXoG6A0K4" target="blank"><img align="center" src="https://img.icons8.com/matisse/100/null/experimental-pdf-matisse.png" alt="https://drive.google.com/uc?export=download&id=1e7TzsupgZ5S05P4nO3QYCZ9bXoG6A0K4" height="40" width="40" /></a> 👈🏽
+- 📄 Know about my experiences 👉🏽<a href="https://drive.google.com/uc?export=download&id=1e7TzsupgZ5S05P4nO3QYCZ9bXoG6A0K4" target="blank"><img align="center" src="https://img.icons8.com/stickers/100/pdf.png" alt="https://drive.google.com/uc?export=download&id=1e7TzsupgZ5S05P4nO3QYCZ9bXoG6A0K4" height="40" width="40" /></a> 👈🏽
 
 - ⚡ Fun fact **I think I am very determined**
 
