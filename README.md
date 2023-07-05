@@ -32,17 +32,17 @@
 
 ###
 
-- 🔭 I’m currently working on *my portfolio*
+- 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning *react+vite and tailwindcss*
+- 🌱 I’m currently learning **react+vite and tailwindcss**
 
-- 💬 Ask me about *html, css, javascrip, react ...*
+- 💬 Ask me about **html, css, javascrip, react ...**
 
-- 📫 How to reach me *arodriguez.working@gmail.com*
+- 📫 How to reach me **arodriguez.working@gmail.com**
 
 - 📄 Know about my experiences 👉🏽<a href="https://drive.google.com/uc?export=download&id=1e7TzsupgZ5S05P4nO3QYCZ9bXoG6A0K4" target="blank"><img align="center" src="https://img.icons8.com/stickers/100/pdf.png" alt="https://drive.google.com/uc?export=download&id=1e7TzsupgZ5S05P4nO3QYCZ9bXoG6A0K4" height="40" width="40" /></a> 👈🏽
 
-- ⚡ Fun fact *I think I am very determined*
+- ⚡ Fun fact **I think I am very determined**
 
 ###
 
@@ -101,10 +101,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejo-RB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejo-RB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=alejo-RB&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejo-RB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alejo-RB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alejo-RB&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ###
 
