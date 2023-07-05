@@ -107,6 +107,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alejo-RB/alejo-RB/output/snake.svg" alt="Snake SVG" />
+![Snake animation](https://github.com/alejo-RB/alejo-RB/raw/output/dist/snake.svg)
 
 ###
