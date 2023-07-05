@@ -109,7 +109,7 @@
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="svg-snake/github-user-contribution.svg"
   />
   <source
